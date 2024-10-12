@@ -15,3 +15,4 @@ jobs:
       shield: '["corne_left","corne_right"]'
       alphas: '["qwerty"]'
       nav: '["vi"]'
+      custom_config: '["#undef TAPPING_FORCE_HOLD"]'
